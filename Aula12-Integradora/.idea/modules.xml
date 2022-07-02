@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Aula-Usuario/01_Aula-Usuario.iml" filepath="$PROJECT_DIR$/01_Aula-Usuario/01_Aula-Usuario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Mesa-Funcionario/02_Mesa-Funcionario.iml" filepath="$PROJECT_DIR$/02_Mesa-Funcionario/02_Mesa-Funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alunos/Alunos.iml" filepath="$PROJECT_DIR$/Alunos/Alunos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aula12-Integradora.iml" filepath="$PROJECT_DIR$/.idea/Aula12-Integradora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alunos/Damares/Damares.iml" filepath="$PROJECT_DIR$/Alunos/Damares/Damares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alunos/Felipe/Felipe.iml" filepath="$PROJECT_DIR$/Alunos/Felipe/Felipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alunos/Myoshi/Myoshi.iml" filepath="$PROJECT_DIR$/Alunos/Myoshi/Myoshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Alunos/Paula/Paula.iml" filepath="$PROJECT_DIR$/Alunos/Paula/Paula.iml" />
+    </modules>
+  </component>
+</project>
