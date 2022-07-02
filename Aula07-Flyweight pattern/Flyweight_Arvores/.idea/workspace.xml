@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e572672-4ab9-4b3d-81e9-3aaea60d00be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../EmpresaCoputadores/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmpresaCoputadores/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmpresaCoputadores/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmpresaCoputadores/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmpresaCoputadores/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmpresaCoputadores/EmpresaCoputadores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmpresaCoputadores/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmpresaCoputadores/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmpresaCoputadores/src/factory/ComputadorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EmpresaCoputadores/src/model/Computador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacadeCaixaEletronico/src/facade/IFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FacadeCaixaEletronico/src/facade/impl/FacadeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Flyweight_Arvores.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Flyweight_Arvores/factory/ArvoreFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Flyweight_Arvores/model/Arvore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Flyweight_Arvores/model/enums/Cor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClientFlyweight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClientNoFlyweight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factory/ArvoreFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Arvore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/enums/Cor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethod_Cartao/TemplateMethod_Cartao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethod_Cartao/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethod_Cartao/src/model/Cartao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethod_Cartao/src/model/CartaoCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethod_Cartao/src/model/CartaoDebito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethod_Cartao/src/services/ProcessadorPagamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FacadeCaixaEletronico/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FacadeCaixaEletronico/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FacadeCaixaEletronico/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FacadeCaixaEletronico/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FacadeCaixaEletronico/src/facade/Caixa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proxy_Integradora_Streaming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Proxy_Integradora_Streaming/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proxy_Integradora_Streaming/out/production/Proxy_Integradora_Streaming/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Proxy_Integradora_Streaming/out/production/Proxy_Integradora_Streaming/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proxy_Integradora_Streaming/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Proxy_Integradora_Streaming/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd_III/Aula01Mesa/aula-01/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd_III/Aula01Mesa/aula-01/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../FrontEnd_III/Aula01Mesa/aula-01/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd_III/Aula01Mesa/aula-01/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd_III/Aula01Mesa/aula-01/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd_III/Aula01Mesa/aula-01/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd_III/Aula01Mesa/aula-01/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd_III/Aula01Mesa/aula-01/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../FrontEnd_III/Aula01Mesa/aula-01/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd_III/Aula01Mesa/aula-01/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd_III/Aula01Mesa/aula-01/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../FrontEnd_III/Aula01Mesa/aula-01/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd_III/Aula01Mesa/aula-01/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd_III/Aula01Mesa/aula-01/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FrontEnd_III/Aula01Mesa/aula-01/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="200H6yKsR3JS6KNQeZ7Hhgd1Moo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientNoFlyweight">
+    <configuration name="ClientFlyweight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientFlyweight" />
+      <module name="Flyweight_Arvores" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientNoFlyweight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientNoFlyweight" />
+      <module name="Flyweight_Arvores" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Flyweight_Arvores" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientNoFlyweight" />
+        <item itemvalue="Application.ClientFlyweight" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e572672-4ab9-4b3d-81e9-3aaea60d00be" name="Changes" comment="" />
+      <created>1635174416850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635174416850</updated>
+      <workItem from="1635174418307" duration="7006000" />
+      <workItem from="1635181845181" duration="1937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
