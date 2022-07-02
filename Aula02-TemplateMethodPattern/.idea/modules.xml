@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Exemplo-Pizzaria/01_Exemplo-Pizzaria.iml" filepath="$PROJECT_DIR$/01_Exemplo-Pizzaria/01_Exemplo-Pizzaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Prof-PagamentoSalario/02_Prof-PagamentoSalario.iml" filepath="$PROJECT_DIR$/02_Prof-PagamentoSalario/02_Prof-PagamentoSalario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Mesa-Cardapio/03_Mesa-Cardapio.iml" filepath="$PROJECT_DIR$/03_Mesa-Cardapio/03_Mesa-Cardapio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aula02-TemplateMethodPattern.iml" filepath="$PROJECT_DIR$/.idea/Aula02-TemplateMethodPattern.iml" />
+    </modules>
+  </component>
+</project>
