@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01_Exemplo-CompraService/01_Exemplo-CompraService.iml" filepath="$PROJECT_DIR$/01_Exemplo-CompraService/01_Exemplo-CompraService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Prof-CalculoDesconto/02_Prof-CalculoDesconto.iml" filepath="$PROJECT_DIR$/02_Prof-CalculoDesconto/02_Prof-CalculoDesconto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Mesa-Turismo/03_Mesa-Turismo.iml" filepath="$PROJECT_DIR$/03_Mesa-Turismo/03_Mesa-Turismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Desafio-CaixaEletronico/04_Desafio-CaixaEletronico.iml" filepath="$PROJECT_DIR$/04_Desafio-CaixaEletronico/04_Desafio-CaixaEletronico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_DesafioResolvido-CaixaEletronico/05_DesafioResolvido-CaixaEletronico.iml" filepath="$PROJECT_DIR$/05_DesafioResolvido-CaixaEletronico/05_DesafioResolvido-CaixaEletronico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Aula01-FacadePattern.iml" filepath="$PROJECT_DIR$/.idea/Aula01-FacadePattern.iml" />
+    </modules>
+  </component>
+</project>
